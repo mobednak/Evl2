@@ -1,5 +1,5 @@
 import kotlin.random.Random
-
+//ломвзщш
 
 fun main() {
 
